@@ -7,4 +7,4 @@
 
 ### Apéndiz
 * [Convenio](https://github.com/GeeksHubsAcademy/2020-geekshubs-convenio)
-* [Contribuciones]()
+* [Contribuciones](https://github.com/GeeksHubsAcademy/geekhubs-academy/contributing.md)
